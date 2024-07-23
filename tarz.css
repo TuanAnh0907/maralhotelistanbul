@@ -1,0 +1,268 @@
+.anamenu{
+	FONT-FAMILY: tahoma, sans-serif;
+	FONT-SIZE: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.anamenu:link {text-decoration: none; color :#FFFFFF ; }  
+.anamenu:visited {text-decoration: none; color : #FFFFFF ; }
+.anamenu:active {text-decoration: none;}
+.anamenu:hover {text-decoration: underline; color: #000000 ; }
+
+
+.baslik{
+    font-family: verdana, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #2C5AA0;
+	text-decoration: none;
+}
+
+
+
+.link2{
+	FONT-FAMILY: verdana,sans-serif;	
+	FONT-SIZE: 10px;
+	font-weight: normal
+}
+.link2:link {text-decoration: none; color :#ffffff }  
+.link2:visited {text-decoration: none; color : #ffffff }
+.link2:active {text-decoration: none;}
+.link2:hover {text-decoration: none ; color: blue; }
+
+
+.anakatlink{
+	FONT-FAMILY: verdana,sans-serif;	
+	FONT-SIZE: 10px;
+	font-weight: normal
+}
+.anakatlink:link {text-decoration: none; color :#00457D }  
+.anakatlink:visited {text-decoration: none; color : #5292D1 }
+.anakatlink:active {text-decoration: none;}
+.anakatlink:hover {text-decoration: underline; color: #000000; }
+
+
+.yazi1
+{
+	color: #000000;
+	FONT-FAMILY: arial, sans-serif;	
+	FONT-SIZE: 11px;
+	cursor:default;
+}
+
+
+.button{
+	BORDER-RIGHT: #000000 1px solid;
+	BORDER-TOP: #000000 1px solid;
+	BORDER-BOTTOM: #000000 1px solid;
+	BORDER-LEFT: #000000 1px solid;
+	FONT-SIZE: 11px;
+	BACKGROUND: #333399;
+
+	CURSOR: hand;
+	COLOR: #FFFFFF;
+
+	FONT-FAMILY: tahoma,sans-serif;
+	HEIGHT: 19px;
+	TEXT-DECORATION: none
+}
+
+
+
+.edit {
+	FONT-SIZE: 11px;
+	FONT-FAMILY: tahoma,sans-serif;	
+	BACKGROUND: #FFFFFF;
+	BORDER-BOTTOM: #000000 1px solid;
+	BORDER-RIGHT: #000000 1px solid;
+	BORDER-LEFT: #000000 1px solid;
+	BORDER-TOP: #000000 1px solid;
+}
+
+.combobox {
+	BORDER-BOTTOM: #000000 0px solid;
+	BORDER-RIGHT: #000000 0px solid;
+	BORDER-LEFT: #000000 0px solid;
+	BORDER-TOP: #000000 0px solid;
+}
+
+.textarea {
+
+	FONT-SIZE: 11px;
+	FONT-FAMILY: tahoma,sans-serif;	
+	BACKGROUND: #FFFFFF;
+	BORDER-BOTTOM: #000000 1px solid;
+	BORDER-RIGHT: #000000 1px solid;
+	BORDER-LEFT: #000000 1px solid;
+	BORDER-TOP: #000000 1px solid;
+	
+	
+
+scrollbar-face-color: #6D7D8D;
+scrollbar-highlight-color: #6D7D8D;
+scrollbar-3dlight-color: #FFFFFF;
+scrollbar-darkshadow-color: #6D7D8D;
+scrollbar-shadow-color: #CCCCCC;
+scrollbar-arrow-color: #FFFFFF;
+scrollbar-track-color: #FFFFFF;
+
+
+}
+
+TD {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: Verdana,Helvetica
+}
+.baslikBeyaz {
+
+    font-family: verdana, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.yazi1beyaz {
+
+	color: #FFFFFF;
+	FONT-FAMILY: arial, sans-serif;	
+	FONT-SIZE: 10px;
+	cursor:default;
+}
+.link3 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #0066CC;
+	text-decoration: none;
+	text-transform: none;
+}
+.link3:link {text-decoration: none; color: #0066CC }  
+.link3:visited {text-decoration: none; color : #3278BE }
+.link3:active {text-decoration: none; }
+.link3:hover {text-decoration: underline; color: #ffffff; }
+
+.link1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: none;
+}
+.link1:link {text-decoration: none; color: #ffffff }  
+.link1:visited {text-decoration: none; color : #ffffff }
+.link1:active {text-decoration: none; }
+.link1:hover {text-decoration: underline; color: #ffffff; }
+
+
+
+.link4 {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: none;
+}
+.yazibuyuk {
+	color: #000000;
+	FONT-FAMILY: arial, sans-serif;
+	FONT-SIZE: 24px;
+	cursor:default;
+	font-weight: bold;
+	text-transform: uppercase;
+
+
+}
+.yazi1bold {
+	color: #000000;
+	FONT-FAMILY: arial, sans-serif;
+	FONT-SIZE: 9px;
+	cursor:default;
+	font-weight: bold;
+
+}
+.yazi1beyaz2 {
+	color: #FFFFFF;
+	FONT-FAMILY: arial, sans-serif;
+	FONT-SIZE: 12px;
+	cursor:default;
+	font-weight: bold;
+
+}
+.anamenubeyaz {
+	FONT-FAMILY: tahoma, sans-serif;
+	FONT-SIZE: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFFFFF;
+
+}
+.link1bold {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: none;
+}
+.link1bold:link {text-decoration: none; color: #ffffff }  
+.link1bold:visited {text-decoration: none; color : yellow }
+.link1bold:active {text-decoration: none; }
+.link1bold:hover {text-decoration: underline; color: #ffffff; }
+
+
+.menu2{
+	FONT-FAMILY: verdana,sans-serif;	
+	FONT-SIZE: 10px;
+	font-weight: normal
+}
+.menu2:link {text-decoration: none; color :#ffffff }  
+.menu2:visited {text-decoration: none; color : #ffffff }
+.menu2:active {text-decoration: none;}
+.menu2:hover {text-decoration: none ; color: blue; }
+/*
+     FILE ARCHIVED ON 00:16:32 Sep 29, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:37:52 Jul 23, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.505
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.017
+  esindex: 0.011
+  cdx.remote: 10.45
+  LoadShardBlock: 77.52 (3)
+  PetaboxLoader3.datanode: 49.809 (4)
+  PetaboxLoader3.resolve: 76.395 (2)
+  load_resource: 56.932
+*/
